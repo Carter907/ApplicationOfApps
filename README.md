@@ -16,4 +16,10 @@ It's really nothing special but I'm excited to see how far this project will go.
 - adding accessiblity to everyday tasks but keeping everything in one place.
 - will test my coding stablility and help me learn more about JavaFX
   
+### How do I start? why a Fat Jar?
+
+- running the program is simple: click target and then download the jar file that says `jar-with-dependencies`.
+![step 1](assets/step1.png)
+![step 2](assets/step2.png)
+- note: running jars like this is risky, but I haven't really learn better ways of distributing my programs, if you see me on discord please let me know what I should do
 
