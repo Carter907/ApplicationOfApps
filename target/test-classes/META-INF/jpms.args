@@ -1,0 +1,4 @@
+--patch-module
+org.cartapp=_
+--add-reads
+org.cartapp=ALL-UNNAMED
