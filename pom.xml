@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.cartapp</groupId>
-    <artifactId>databasegui</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>AppOfApps</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -29,17 +29,6 @@
             <artifactId>javafx-controls</artifactId>
             <version>20-ea+7</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.pixelduke/FXSkins -->
-        <dependency>
-            <groupId>com.pixelduke</groupId>
-            <artifactId>FXSkins</artifactId>
-            <version>1.0.0</version>
-            <type>pom</type>
-        </dependency>
-
-
-
     </dependencies>
     <build>
         <plugins>
