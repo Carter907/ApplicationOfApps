@@ -4,7 +4,7 @@
 * long term project that will have a variety of features talored to what I want personally in an app.
 ### here is one feature already added to the app:
 
-![picture of sorting algorithm in AppOfApps](assets/AppOfApps.png)
+![picture of sorting algorithm in AppOfApps](AppOfApps.png)
 
 This addition uses insertion sort to visually demonstrate a sorting alglorithm. 
 
